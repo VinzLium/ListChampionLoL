@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Submission1" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/dark_purple</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/light_blue</item>
+        <item name="colorSecondaryVariant">@color/dark_blue</item>
+        <item name="android:statusBarColor">@android:color/holo_purple</item>
+    </style>
+
+    <style name="Theme.Submission1" parent="Base.Theme.Submission1" />
+</resources>
