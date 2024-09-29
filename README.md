@@ -1,1 +1,1 @@
-List Champion League of Legends menggunakan RecyclerView dan Intent Activity
+# List Champion League of Legends menggunakan RecyclerView dan Intent Activity
